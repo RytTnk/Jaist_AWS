@@ -32,10 +32,11 @@ introduction to how to use AWS through JAIST CLOUD
   
   
   
-## Note
+## Note (unsolved issues)
 - We need to check about specific version in GPU, to use it.
   - mount extended HDD
   - static IP(fixed initially by defalt)
+  - In RHEL(or CentOS)-like AWS Linux, any equivalent for libcupti-dev library: https://stackoverflow.com/questions/45348033/tensorflow-installation-on-centos7-libcupti-dev-equivalent
 
 ## Refe(jp)
 - qiita
