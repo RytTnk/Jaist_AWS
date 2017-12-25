@@ -26,10 +26,10 @@ introduction to how to use AWS through JAIST CLOUD
 
 ## Refe(jp)
 - qiita
-  - tf p2 (CUDA, CuDNN)(security group for jupyter needed? env,path?) https://qiita.com/hamaguchitm/items/269df3662a09f46277c7
-    - (this aws linux ami does not work?) https://qiita.com/halhorn/items/361008b19b4fcfd618d6
+  - tf p2 (CUDA, CuDNN-From-scp)(miniconda, jupyter)(security group for jupyter needed? env,path?) https://qiita.com/hamaguchitm/items/269df3662a09f46277c7
+    - (this aws linux ami does not work?  DON'T USE anaCONDA) https://qiita.com/halhorn/items/361008b19b4fcfd618d6
   - tf
-    - (CuDNN acceralate calcu) https://qiita.com/h860a/items/294262d98e1223008252
+    - (CuDNN acceralate calcu, DETAIL FILE MNG) https://qiita.com/h860a/items/294262d98e1223008252
   - anaconda+jupyter(don't use sec gr?) simple https://qiita.com/Salinger/items/c7b87d7000e48be6ebe2
     - this use? sec gr https://jp.ubunifu.co/python/jupyterhub-pyenv-anaconda%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89%EF%BC%88aws-ec2%EF%BC%89
   - mxnet 
