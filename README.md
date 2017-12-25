@@ -22,6 +22,9 @@ introduction to how to use AWS through JAIST CLOUD
 ### For MY Favorite
 - CUDA (already installed 7.5?)
 - CuDNN(need to install in local and then pass through it to remote with matched version for 7.5)
+  - `sudo su -`
+  - We need to consider to install and expand cuDNN tgz in enough inode ().
+  - 
 - Conda
 - Deep learning tool
   - Tensorflow, Chainer, Keras
