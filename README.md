@@ -1,7 +1,7 @@
 # JAIST_AWS
 introduction to how to use AWS through JAIST CLOUD
 
-## Evironment
+## Evironment and Spec.
 - CPU
 - GPU p2
 - mem 
@@ -23,6 +23,8 @@ introduction to how to use AWS through JAIST CLOUD
   
 ## Note
 - We need to check about specific version in GPU, to use it.
+  - mount extended HDD
+  - static IP
 
 ## Refe(jp)
 - qiita
