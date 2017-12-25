@@ -21,7 +21,7 @@ introduction to how to use AWS through JAIST CLOUD
 
 ### For MY Favorite
 - CUDA (already installed 7.5?)
-- CuDNN(need to install in local and then pass through it to remote with matched version for 7.5)
+- CuDNN(need to install in local and then pass through it to remote with matched version for 7.5) 6.0
   - `sudo su -`
   - We need to consider to install and expand cuDNN tgz in enough inode ().
   - 
@@ -35,8 +35,9 @@ introduction to how to use AWS through JAIST CLOUD
 ## Note (unsolved issues)
 - We need to check about specific version in GPU, to use it.
   - mount extended HDD
+    - ***inode issue (how can we resolve it? this uses xft? ext4(how can check), root?user? => can file mnt folder or exoand inodes?)***
   - static IP(fixed initially by defalt)
-  - In RHEL(or CentOS)-like AWS Linux, any equivalent for libcupti-dev library: https://stackoverflow.com/questions/45348033/tensorflow-installation-on-centos7-libcupti-dev-equivalent
+  - In RHEL(or CentOS)-like AWS Linux, any equivalent for libcupti-dev library: https://stackoverflow.com/questions/45348033/tensorflow-installation-on-centos7-libcupti-dev-equivalent , rpm
 
 ## Refe(jp)
 - qiita
