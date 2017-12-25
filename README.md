@@ -10,7 +10,7 @@ introduction to how to use AWS through JAIST CLOUD
 
 ## Evironment and Spec.
 - Amazon Linux AMI like Redhat distribution
-- CPU
+- CPU Xeon E5-2686v4 (Broadwell) 1
 - GPU p2
 - mem 
 - See more https://aws.amazon.com/jp/ec2/instance-types/
