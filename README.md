@@ -5,8 +5,8 @@ introduction to how to use AWS through JAIST CLOUD
 
 1. 
  - ` sudo yum update `
- - 
- - In a case you download cudnn() in Windows, you need to change its identify into arbitary one. 
+ - CUDA sample test, comple [^1]
+ - In a case you download cudnn() in Windows, you need to change its identify into arbitary one. [^2]
 
 ## Evironment and Spec.
 - Amazon Linux AMI like Redhat distribution
@@ -45,3 +45,7 @@ introduction to how to use AWS through JAIST CLOUD
   - mxnet 
   - web
     - https://qiita.com/Arashi/items/629aaed33401b8f2265c
+
+
+[^1]: https://qiita.com/daikumatan/items/26039fc23edabf76a9c4
+[^2]: https://missingmemory.net/archives/416
