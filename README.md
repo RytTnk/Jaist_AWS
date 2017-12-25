@@ -9,10 +9,10 @@ introduction to how to use AWS through JAIST CLOUD
  - In a case you download cudnn() in Windows, you need to change its identify into arbitary one. [^2]
 
 ## Evironment and Spec.
-- Amazon Linux AMI like Redhat distribution
-- CPU Xeon E5-2686v4 (Broadwell) 1
-- GPU p2
-- mem 
+- Amazon Linux AMI like Redhat distribution, p2 EC2
+- CPU Xeon E5-2686v4 (Broadwell) *4
+- GPU NVIDIA K80 
+- mem 61?(GiB)(CPU), 12(GiB)(GPU)
 - See more https://aws.amazon.com/jp/ec2/instance-types/
 
 
@@ -35,7 +35,7 @@ introduction to how to use AWS through JAIST CLOUD
 ## Note
 - We need to check about specific version in GPU, to use it.
   - mount extended HDD
-  - static IP
+  - static IP(fixed initially by defalt)
 
 ## Refe(jp)
 - qiita
@@ -52,3 +52,6 @@ introduction to how to use AWS through JAIST CLOUD
 
 [^1]: https://qiita.com/daikumatan/items/26039fc23edabf76a9c4
 [^2]: https://missingmemory.net/archives/416
+
+
+
