@@ -5,12 +5,14 @@ ISC provides kindly these with purpose to acceralate our research and to have us
 
 We suggest definitive standard time for switch-off as 1 day, it means we switch off if we do not use over 1 day a last use (e.g. attend to conference, take a trip etc...)
  
+------------------------
 0. Intro
 
 1. Env
 2.
 3. Setting basic environment
 
+------------
  - ` sudo yum update `
  - CUDA sample test, comple [^1]
  - In a case you download cudnn in Windows, you need to change its identifier into arbitary one. [^2]
@@ -37,6 +39,8 @@ We suggest definitive standard time for switch-off as 1 day, it means we switch 
   - Tensorflow, Chainer, Keras
   - Mxnet
   - Spyder (remote)
+  - (Atom, hidrogen? conda, jupyter, IDE)
+  - **Jupyter remote, lab, theme**
   
   
   
