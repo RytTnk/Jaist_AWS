@@ -1,5 +1,5 @@
 # JAIST_AWS
-introduction to how to use AWS through JAIST CLOUD
+Introduction to how to use AWS through JAIST CLOUD
 
 0.
 
@@ -11,9 +11,9 @@ introduction to how to use AWS through JAIST CLOUD
 ## Evironment and Spec.
 - Amazon Linux AMI like Redhat distribution, p2 EC2
 - CPU Xeon E5-2686v4 (Broadwell) *4
-- GPU NVIDIA K80 
+- GPU NVIDIA K80 *1
 - mem 61?(GiB)(CPU), 12(GiB)(GPU)
-- See more https://aws.amazon.com/jp/ec2/instance-types/
+- See more jp site here https://aws.amazon.com/jp/ec2/instance-types/ ,
 
 
 ## (MEMO) For Our Favorite Dev. Setting
