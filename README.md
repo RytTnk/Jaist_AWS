@@ -1,4 +1,7 @@
 # JAIST_AWS
+
+(*Uncomplete document in some ones, so please wait a minute*)
+
 Introduction to how to use AWS through JAIST CLOUD
 
 ISC provides kindly these with purpose to acceralate our research and to have us acquire sophisticated information processing skill on educational scenario. (We can use  freely but) Note that we should notice we have a duty to avoid **"over-use"** when we use it any time because resource cost...  (when you take a rest (e.g go to bed, have a food and so on...), computer also hope to do that :sleeping:)
@@ -26,7 +29,20 @@ We suggest definitive standard time for switch-off as 1 day, it means we switch 
 
 
 ## (Memo) For Our Favorite Dev. Setting
+- For general document of how to use on JCS, we can view [here(en)](http://www.jaist.ac.jp/iscenter/en/jaist-cloud/cloud/guidebook/), [here(jp)](http://www.jaist.ac.jp/iscenter/fileadmin/Contents/Top-Page/Cloud/Cloud-Service/JAISTCloudService-ja.pdf)
 
+- import .pem file (certificate)
+- login
+- mount in my dir
+- *chmod filesystem(mounted directory)*, *chown?* (which proper to permission)
+  - /etc/??? (vi edit ___ ) to fix mnt after switching-off
+- cuda   /.bash_proofile ==> note that data position,,,, after that, relogin to active roader it
+- ()cuDNN (note that data position,,,, scp)
+
+- pyenv **in data** ~ miniconda ~ 
+- conda **config to data** http://nekoyukimmm.hatenablog.com/entry/2016/03/27/173030
+- tf (sample code to check work on gpu)
+- ()jy port
 
 ### For MY Favorite
 - CUDA (already installed 7.5)
