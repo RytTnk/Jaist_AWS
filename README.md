@@ -57,6 +57,7 @@ We suggest definitive standard time for switch-off as 1 day, it means we switch 
   - Spyder (remote)
   - (Atom, hidrogen? conda, jupyter, IDE)
   - **Jupyter remote, lab, theme**
+    - jupyter lab, and color. (extension is under the development)
   
   
   
@@ -66,6 +67,9 @@ We suggest definitive standard time for switch-off as 1 day, it means we switch 
     - ***inode issue (how can we resolve it? uses xft? ext4(how can check), root?user? => can file mnt folder or expand inodes?)***
   - ~static IP~(fixed initially by defalt in Jaist setting)
   - In RHEL(or CentOS)-like AWS Linux, any equivalent for libcupti-dev library: https://stackoverflow.com/questions/45348033/tensorflow-installation-on-centos7-libcupti-dev-equivalent , rpm   ===> **Hint: libcupti	/usr/local/cuda-8.0/extras/CUPTI/lib64**
+
+## Plan
+- Making sample code, data analysis, deep learning (but mainly around my theme... see more memo)
 
 ## Refe(almost jp)
 - qiita
