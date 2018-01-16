@@ -57,7 +57,7 @@ We suggest definitive standard time for switch-off as 1 day, it means we switch 
   - Spyder (remote)
   - (Atom, hidrogen? conda, jupyter, IDE)
   - **Jupyter remote, lab, theme**
-    - jupyter lab, and color. (extension is under the development)
+    - jupyter lab, and color (font "Recty Dimished"). (extension is under the development) (Nodejs kernel still not)
   
   
   
