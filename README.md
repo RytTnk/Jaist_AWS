@@ -1,8 +1,8 @@
 # JAIST_AWS
 
-(*Uncomplete document in some ones, so please wait a minute*)
+(*Uncompleted document in some ones, so please wait a minute*)
 
-Introduction to how to use AWS through JAIST CLOUD
+Introduction to how to use AWS Ec2 instance through JAIST CLOUD
 
 ISC provides kindly these with purpose to acceralate our research and to have us acquire sophisticated information processing skill on educational scenario. (We can use  freely but) Note that we should notice we have a duty to avoid **"over-use"** when we use it any time because resource cost...  (when you take a rest (e.g go to bed, have a food and so on...), computer also hope to do that :sleeping:)
 
