@@ -27,7 +27,6 @@ We suggest definitive standard time for switch-off as 1 day, it means we switch 
 - mem 61?(GiB) (CPU), 12(GiB) (GPU)
 - See more jp site here https://aws.amazon.com/jp/ec2/instance-types/ ,
 
-
 ## (Memo) For Our Favorite Dev. Setting
 - For general document of how to use on JCS, we can view [here(en)](http://www.jaist.ac.jp/iscenter/en/jaist-cloud/cloud/guidebook/), [here(jp)](http://www.jaist.ac.jp/iscenter/fileadmin/Contents/Top-Page/Cloud/Cloud-Service/JAISTCloudService-ja.pdf)
 
@@ -70,6 +69,8 @@ We suggest definitive standard time for switch-off as 1 day, it means we switch 
 
 ## Plan
 - Making sample code, data analysis, deep learning (but mainly around my theme... see more memo)
+- 
+- Docker
 
 ## Refe(almost jp)
 - qiita
